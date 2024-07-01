@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+titanic_kaggle/__init__.py
+titanic_kaggle/assets.py
+titanic_kaggle.egg-info/PKG-INFO
+titanic_kaggle.egg-info/SOURCES.txt
+titanic_kaggle.egg-info/dependency_links.txt
+titanic_kaggle.egg-info/requires.txt
+titanic_kaggle.egg-info/top_level.txt
+titanic_kaggle/src/__init__.py
